@@ -147,7 +147,7 @@ img {
 #navigation.scroll .open-menu path {
   stroke: white;
 }
-
+body.menu-expanded #navigation .logo path,
 #navigation.scroll .logo path[fill*="#00856F"] {
   fill: white;
 }

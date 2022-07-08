@@ -164,6 +164,7 @@ nav {
   width: 100%;
 
   z-index: 100;
+  transition: ease .4s
 }
 
 nav .wrapper{
@@ -173,6 +174,7 @@ nav .wrapper{
 }
 nav.scroll {
    background-color: var(--primary-color);
+   transition: ease .4s;
 }
 
 nav.scroll .logo path {
